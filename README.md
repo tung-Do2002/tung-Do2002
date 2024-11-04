@@ -32,24 +32,12 @@ Being in a competitive environment accelerates my learning about business and ma
   <img src="https://github.com/user-attachments/assets/65be3729-98aa-4be3-bc0d-18d5bb575c0a" alt="la" width="500"/>
   <img src="https://github.com/user-attachments/assets/281cc738-50d3-4636-b587-94a4832854f6" alt="li" width="500"/>
   
+**5-time in-top/finalist in Data Science Case Competitions** | **4-time in-top/finalist in Consulting and Business Case Competitions** | **5-time in-top/finalist in Marketing Case Competitions**
 
 
-**My Achievements**
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <div style="text-align: center;">
-    <strong style="font-size: 2em; display: block;">5-time</strong>
-    <span>in-top/finalist in Data Science Case Competitions</span>
-  </div>
-  <div style="text-align: center;">
-    <strong style="font-size: 2em; display: block;">4-time</strong>
-    <span>in-top/finalist in Consulting and Business Case Competitions</span>
-  </div>
-  <div style="text-align: center;">
-    <strong style="font-size: 2em; display: block;">5-time</strong>
-    <span>in-top/finalist in Marketing Case Competitions</span>
-  </div>
-</div>
+
+
 
 
 
