@@ -28,30 +28,23 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 ## My Competition Achievements:
 Being in a competitive environment accelerates my learning about business and marketing. It provides valuable feedback and mentorship, leading to faster growth and improved data modeling. Embracing competition sharpens my skills and drives success.
 
-<div align="center">
-  
-### 5-time in-top/finalist in Data Science Case Competitions
+<h3 align="center">5-time in-top/finalist in Data Science Case Competitions</h3>
 
-<p>
   <img src="https://github.com/user-attachments/assets/65be3729-98aa-4be3-bc0d-18d5bb575c0a" alt="la" width="500"/>
   <img src="https://github.com/user-attachments/assets/281cc738-50d3-4636-b587-94a4832854f6" alt="li" width="500"/>
 </p>
 
-### 4-time in-top/finalist in Consulting and Business Case Competitions
+<h3 align="center">4-time in-top/finalist in Consulting and Business Case Competitions</h3>
 
-<p>
   <img src="https://github.com/user-attachments/assets/475dada5-d30f-4880-904a-5e5f8bb41ee8" alt="Data Science Competition" width="500"/>
   <img src="https://github.com/user-attachments/assets/e6f4de28-f7c4-4b1a-a5de-3dc83a5ae8a4" alt="Consulting Competition" width="500"/>
 </p>
 
-### 5-time in-top/finalist in Marketing Case Competitions
+<h3 align="center">5-time in-top/finalist in Marketing Case Competitions</h3>
 
-<p>
   <img src="https://github.com/user-attachments/assets/dd3302f6-17bb-4b8b-ac41-8d67d0807e9e" alt="Marketing Competition" width="500"/>
   <img src="https://github.com/user-attachments/assets/a3338d8e-7c7d-417f-aace-c377b36ff65c" alt="Other Competition" width="500"/>
 </p>
-
-</div>
 
 
 
