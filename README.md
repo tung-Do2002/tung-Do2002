@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tung!
 
+![IMG_3611](https://github.com/user-attachments/assets/fd7749ba-0b39-4437-938a-2fed23b3cea8)
+
 I'm a Growth Marketing Specialist with a strong background in machine learning and statistics, focused on driving data-informed growth strategies. My work revolves around enhancing customer value, boosting sales, and creating optimized pricing models to support scalable, profitable growth.
 
 ## 🚀 About Me
