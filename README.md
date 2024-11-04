@@ -17,6 +17,7 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 
 **My role**: Developed advanced expertise in agile project management as a Scrum Master, optimizing team workflows and ensuring project alignment with strategic goals, while leveraging data-driven growth marketing strategies to enhance customer engagement, retention, and revenue growth.
 
+
 ![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
 
 ## ✍🏼 My Project:
