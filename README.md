@@ -13,18 +13,26 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 - **Statistics**: Regression analysis, hypothesis testing, A/B testing
 - **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
 
-## 🛠️ My Work Experience:
+## 🧑‍💻 My Work Experience:
 
 **My role**: Developed advanced expertise in agile project management as a Scrum Master, optimizing team workflows and ensuring project alignment with strategic goals, while leveraging data-driven growth marketing strategies to enhance customer engagement, retention, and revenue growth.
 
 ![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
 
-
-
-## My Project:
+## ✍🏼 My Project:
 
 **My role** : I am a growth marketing professional dedicated to driving user acquisition and retention through A/B testing, data-driven email marketing strategies, event and social marketing, and strategic partnerships with over 30 companies.
 ![(English) (2)](https://github.com/user-attachments/assets/c7ddd28d-65ca-42b1-aca0-a99c6767ab55)
+
+
+## My Competition Achievements:
+Being in a competitive environment accelerates my learning about business and marketing. It provides valuable feedback and mentorship, leading to faster growth and improved data modeling. Embracing competition sharpens my skills and drives success.
+![image](https://github.com/user-attachments/assets/42f7cae2-ae0a-450b-aa24-4d369f956b7f)
+
+**My Achievements** 
+
+**5-time in-top/finalist in Data Science Case Competitions** &nbsp;&nbsp;**4-time in-top/finalist in Consulting and Business Case Competitions** &nbsp;&nbsp;**5-time in-top/finalist in Marketing Case Competitions**
+
 
                                                                                                           
 <h3 align="left">Languages and Tools:</h3>
