@@ -14,6 +14,14 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 - **Statistics**: Regression analysis, hypothesis testing, A/B testing
 - **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
 
+## 🛠️ My Work Experience
+![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
+
+
+
+## My Project 
+![(English) (2)](https://github.com/user-attachments/assets/c7ddd28d-65ca-42b1-aca0-a99c6767ab55)
+
                                                                                                           
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
