@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Tung!
+I'm a Growth Marketing Specialist with a strong background in machine learning and statistics, focused on driving data-informed growth strategies. My work revolves around enhancing customer value, boosting sales, and creating optimized pricing models to support scalable, profitable growth.
 
 ![IMG_3611](https://github.com/user-attachments/assets/fd7749ba-0b39-4437-938a-2fed23b3cea8)
-
-I'm a Growth Marketing Specialist with a strong background in machine learning and statistics, focused on driving data-informed growth strategies. My work revolves around enhancing customer value, boosting sales, and creating optimized pricing models to support scalable, profitable growth.
 
 ## 🚀 About Me
 - 📈 I specialize in using data and predictive models to uncover growth opportunities and guide strategic decisions.
@@ -14,12 +13,17 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 - **Statistics**: Regression analysis, hypothesis testing, A/B testing
 - **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
 
-## 🛠️ My Work Experience
+## 🛠️ My Work Experience:
+
+**My role**: Developed advanced expertise in agile project management as a Scrum Master, optimizing team workflows and ensuring project alignment with strategic goals, while leveraging data-driven growth marketing strategies to enhance customer engagement, retention, and revenue growth.
+
 ![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
 
 
 
-## My Project 
+## My Project:
+
+**My role** : I am a growth marketing professional dedicated to driving user acquisition and retention through A/B testing, data-driven email marketing strategies, event and social marketing, and strategic partnerships with over 30 companies.
 ![(English) (2)](https://github.com/user-attachments/assets/c7ddd28d-65ca-42b1-aca0-a99c6767ab55)
 
                                                                                                           
