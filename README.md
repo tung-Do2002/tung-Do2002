@@ -27,15 +27,37 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 
 ## My Competition Achievements:
 Being in a competitive environment accelerates my learning about business and marketing. It provides valuable feedback and mentorship, leading to faster growth and improved data modeling. Embracing competition sharpens my skills and drives success.
-![image](https://github.com/user-attachments/assets/42f7cae2-ae0a-450b-aa24-4d369f956b7f)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65be3729-98aa-4be3-bc0d-18d5bb575c0a" alt="la" width="400"/>
+  <img src="https://github.com/user-attachments/assets/281cc738-50d3-4636-b587-94a4832854f6" alt="li" width="400"/>
+  <img src="https://github.com/user-attachments/assets/be6b84cc-b01d-43f2-b2f8-c3b9ae021635" alt="lu" width="400"/>
+</p>
+
 
 **My Achievements** 
+<h3>My Achievements</h3>
 
-- **5-time in-top/finalist in Data Science Case Competitions** 
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <div style="text-align: center;">
+    <strong style="font-size: 2em; display: block;">5-time</strong>
+    <span>in-top/finalist in Data Science Case Competitions</span>
+  </div>
+  <div style="text-align: center;">
+    <strong style="font-size: 2em; display: block;">4-time</strong>
+    <span>in-top/finalist in Consulting and Business Case Competitions</span>
+  </div>
+  <div style="text-align: center;">
+    <strong style="font-size: 2em; display: block;">5-time</strong>
+    <span>in-top/finalist in Marketing Case Competitions</span>
+  </div>
+</div>
 
-- **4-time in-top/finalist in Consulting and Business Case Competitions** 
 
-- **5-time in-top/finalist in Marketing Case Competitions**
+
+
+
+
 
 
                                                                                                           
