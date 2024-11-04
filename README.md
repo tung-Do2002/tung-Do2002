@@ -31,9 +31,11 @@ Being in a competitive environment accelerates my learning about business and ma
 
 **My Achievements** 
 
-**5-time in-top/finalist in Data Science Case Competitions** 
-**4-time in-top/finalist in Consulting and Business Case Competitions** 
-**5-time in-top/finalist in Marketing Case Competitions**
+- **5-time in-top/finalist in Data Science Case Competitions** 
+
+- **4-time in-top/finalist in Consulting and Business Case Competitions** 
+
+- **5-time in-top/finalist in Marketing Case Competitions**
 
 
                                                                                                           
