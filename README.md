@@ -11,7 +11,7 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 - **Machine Learning**: Model development, feature engineering, predictive analysis
 - **Statistics**: Regression analysis, hypothesis testing, A/B testing
 - **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
-- **Tools**: <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
