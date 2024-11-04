@@ -29,14 +29,12 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 Being in a competitive environment accelerates my learning about business and marketing. It provides valuable feedback and mentorship, leading to faster growth and improved data modeling. Embracing competition sharpens my skills and drives success.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65be3729-98aa-4be3-bc0d-18d5bb575c0a" alt="la" width="400"/>
-  <img src="https://github.com/user-attachments/assets/281cc738-50d3-4636-b587-94a4832854f6" alt="li" width="400"/>
-  <img src="https://github.com/user-attachments/assets/be6b84cc-b01d-43f2-b2f8-c3b9ae021635" alt="lu" width="400"/>
-</p>
+  <img src="https://github.com/user-attachments/assets/65be3729-98aa-4be3-bc0d-18d5bb575c0a" alt="la" width="500"/>
+  <img src="https://github.com/user-attachments/assets/281cc738-50d3-4636-b587-94a4832854f6" alt="li" width="500"/>
+  
 
 
-**My Achievements** 
-<h3>My Achievements</h3>
+**My Achievements**
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <div style="text-align: center;">
