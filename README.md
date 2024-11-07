@@ -43,7 +43,8 @@ Being in a competitive environment accelerates my learning about business and ma
 <h3 align="center">5-time in-top/finalist in Marketing Case Competitions</h3>
 
   <img src="https://github.com/user-attachments/assets/dd3302f6-17bb-4b8b-ac41-8d67d0807e9e" alt="Marketing Competition" width="400"/>
-  <img src="https://github.com/user-attachments/assets/a3338d8e-7c7d-417f-aace-c377b36ff65c" alt="Other Competition" width="400"/>
+  [<img src="https://github.com/user-attachments/assets/a3338d8e-7c7d-417f-aace-c377b36ff65c" alt="Other Competition" width="400"/>](https://drive.google.com/file/d/1DUtYmGDGrmLCsSH4ZWV7yc_Gihp5ao9s/view?usp=sharing)
+  
 </p>
 
 
