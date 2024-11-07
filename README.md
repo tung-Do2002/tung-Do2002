@@ -15,11 +15,6 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 
 ![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
 
-## 🛠️ Skills & Tech
-- **Machine Learning**: Model development, feature engineering, predictive analysis
-- **Statistics**: Regression analysis, hypothesis testing, A/B testing
-- **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
-
 
 ## ✍🏼 My Project:
 
