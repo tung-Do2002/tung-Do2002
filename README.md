@@ -52,5 +52,5 @@ Being in a competitive environment accelerates my learning about business and ma
 </p>
 
 
-## 👇 The below here is My portfolio in machine learning, AI 👇👇
+## 👇  My work in machine learning, AI 👇👇
 
