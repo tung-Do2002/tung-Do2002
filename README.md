@@ -15,10 +15,19 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 
 ![(English)](https://github.com/user-attachments/assets/9caa1844-0147-4db3-b607-47c9d11d1558)
 
+## 🛠️ Skills & Tech
+- **Machine Learning**: Model development, feature engineering, predictive analysis
+- **Statistics**: Regression analysis, hypothesis testing, A/B testing
+- **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
+
+
 ## ✍🏼 My Project:
 
 **My role** : I am a growth marketing professional dedicated to driving user acquisition and retention through A/B testing, data-driven email marketing strategies, event and social marketing, and strategic partnerships with over 30 companies.
 ![(English) (2)](https://github.com/user-attachments/assets/c7ddd28d-65ca-42b1-aca0-a99c6767ab55)
+
+## <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p> 
 
 
 ## My Competition Achievements:
@@ -42,27 +51,6 @@ Being in a competitive environment accelerates my learning about business and ma
   <img src="https://github.com/user-attachments/assets/a3338d8e-7c7d-417f-aace-c377b36ff65c" alt="Other Competition" width="400"/>
 </p>
 
-## 🛠️ Skills & Tech
-- **Machine Learning**: Model development, feature engineering, predictive analysis
-- **Statistics**: Regression analysis, hypothesis testing, A/B testing
-- **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                                                                          
-## <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> </p>
 
 ## 👇 The below here is My portfolio in machine learning, AI 👇👇
 
