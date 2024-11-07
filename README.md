@@ -8,11 +8,6 @@ I'm a Growth Marketing Specialist with a strong background in machine learning a
 - 💡 My expertise includes identifying key sales drivers and applying statistical analysis to optimize product offerings and pricing.
 - 🤖 I leverage machine learning to understand customer behavior, forecast trends, and implement targeted solutions.
 
-## 🛠️ Skills & Tech
-- **Machine Learning**: Model development, feature engineering, predictive analysis
-- **Statistics**: Regression analysis, hypothesis testing, A/B testing
-- **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
-
 ## 🧑‍💻 My Work Experience:
 
 **My role**: Developed advanced expertise in agile project management as a Scrum Master, optimizing team workflows and ensuring project alignment with strategic goals, while leveraging data-driven growth marketing strategies to enhance customer engagement, retention, and revenue growth.
@@ -47,7 +42,10 @@ Being in a competitive environment accelerates my learning about business and ma
   <img src="https://github.com/user-attachments/assets/a3338d8e-7c7d-417f-aace-c377b36ff65c" alt="Other Competition" width="400"/>
 </p>
 
-
+## 🛠️ Skills & Tech
+- **Machine Learning**: Model development, feature engineering, predictive analysis
+- **Statistics**: Regression analysis, hypothesis testing, A/B testing
+- **Growth Strategy**: Customer segmentation, retention strategies, pricing optimization
 
 
 
